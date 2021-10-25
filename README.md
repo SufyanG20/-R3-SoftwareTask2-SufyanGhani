@@ -1,1 +1,3 @@
 # R3-SoftwareTask2-SufyanGhani
+
+I was unable to finish the task, only got a small portion of it done. I was busy with homework, things in my house and midterms, (am sure other people are too), but am still trying to find a balance between all that. If I spent more time on this I would definitely get much more done, and make it more refined. Getting the server to connect was difficult to do, was testing different things out, but was unable to do it. I was able to pygame and get inputs and output that out, wasn't very refined, but was able to work.
